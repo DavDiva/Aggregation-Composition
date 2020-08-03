@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TEST_final.cpp">
+    <ClCompile Include="Aggreagation_composition.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

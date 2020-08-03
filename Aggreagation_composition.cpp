@@ -63,9 +63,9 @@ int main()
 
     } 
 
-    std::cout << w1->getName() << " still exists!\n";
-    std::cout << w2->getName() << " still exists!\n";
-    std::cout << w3->getName() << " still exists!\n";
+    cout << w1->getName() << " still exists!\n";
+    cout << w2->getName() << " still exists!\n";
+    cout << w3->getName() << " still exists!\n";
 
     delete w1;
     delete w2;
