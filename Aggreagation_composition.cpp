@@ -3,6 +3,8 @@
 #include <vector>
 using namespace std;
 
+//Example of aggregation
+
 class Worker
 {
 private:
